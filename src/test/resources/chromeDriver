@@ -1,0 +1,6 @@
+			if (prop.getProperty("browser") == "chrome")
+			{
+				System.setProperty("Webdriver.chrome.driver","/Users/SAMSUNG/Documents/chromedriver.exe");
+				driver = new ChromeDriver();
+				driver.manage().window().maximize();
+			}

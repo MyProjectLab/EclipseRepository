@@ -1,0 +1,14 @@
+Feature:  Search and place the order for the product
+@OffersPage
+Scenario Outline: Search experience for product search for both home and offer page.
+
+Given User is on GreenKart Landing page
+When user search with Shortname <Name> and extracted actual name of product
+Then user search for <Name> Sortname on offer page
+And Validate product name in offer page matches with Landing page
+
+Examples: 
+| Name |
+|  Tom |
+#|  Beat | 
+
