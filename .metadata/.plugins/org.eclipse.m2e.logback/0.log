@@ -56,3 +56,4 @@ org.eclipse.core.runtime.CoreException: Launch configuration TestNGTestRunner re
 2023-09-01 03:42:50,766 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SAMSUNG\GIT_work\src\main\resources
 2023-09-01 03:42:50,779 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
 2023-09-01 03:51:50,034 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SAMSUNG\GIT_work\src\main\resources
+2023-09-01 03:51:50,046 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
