@@ -5,6 +5,7 @@ public class Appium {
 	public void addCountry()
 	{
 		System.out.println("india added");
+		System.out.println("Bangalore");
 	}
 
 }
